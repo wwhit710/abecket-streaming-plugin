@@ -9,7 +9,7 @@
         }
       ], 
       "Tooltip": "This is an example tooltip", 
-      "UUID": "com.elgato.template.action"
+      "UUID": "org.abecket.streaming_plugin.action"
     }
   ], 
   "SDKVersion": 2,
@@ -17,7 +17,7 @@
   "CodePath": "index.html", 
   "PropertyInspectorPath": "propertyinspector/index.html", 
   "Description": "Example description", 
-  "Name": "Stream Deck Template", 
+  "Name": "A'Becket Streaming Plugin", 
   "Icon": "action/images/action", 
   "URL": "https://www.elgato.com/en/gaming/stream-deck", 
   "Version": "1.0.1",
